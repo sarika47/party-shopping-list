@@ -5,3 +5,4 @@ tequila
 oj
 lemonade
 gin and tonic
+changed: hot drinks please cold outside
